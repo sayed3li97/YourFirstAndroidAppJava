@@ -8,7 +8,6 @@ The exercise is a Simple App that interacts with button clicks to
 This tutorial is based on this [Codelab](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..index#0) 
 
 # Screenshots 
-![Screenshot1](YourFirstAndroidAppJava/Screenshots/appscreen1.png)
-![Screenshot2](YourFirstAndroidAppJava/Screenshots/appscreen2.png)
-![Screenshot3](YourFirstAndroidAppJava/Screenshots/appscreen3.png)
-![Screenshot4](YourFirstAndroidAppJava/Screenshots/appscreen4.png)
+<img src="/Screenshots/appscreen1.png" width="220" height="400"><img src="/Screenshots/appscreen2.png" width="220" height="400">
+
+<img src="/Screenshots/appscreen3.png" width="220" height="400"><img src="/Screenshots/appscreen4.png" width="220" height="400">
