@@ -1,10 +1,10 @@
 # YourFirstAndroidAppJava
 
-This project is part of Introduction to Android workshop. 
+This project is part of the Introduction to Android workshop. 
 The exercise is a Simple App that interacts with button clicks to 
 1. Display a Toast Message 
 2. Count (Increase a number and change a TextView Value) 
-3. Display a random number in a second screen
+3. Display a random number on a second screen
 
 This tutorial is based on [Codelab](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..index#0) 
 
